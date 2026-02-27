@@ -6,4 +6,4 @@ Tras analizar la carga de recursos, se adjuntan los tiempos de carga y el estado
 
 ## 2. Errores de Ejecución (Console)
 Se han detectado errores de JavaScript en la consola que están bloqueando la correcta ejecución en el cliente:
-![Captura de Consola](StatusNetwork.jpg)
+![Captura de Consola](StatusNetwork.png)
